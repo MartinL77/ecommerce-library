@@ -296,6 +296,10 @@ HIGHLIGHTS
   border-radius: 4px;
   font-size: 32px;
   margin-bottom: 24px;
+
+  img {
+    width: 50px;
+  }
 }
 
 .highlight__subtitle {
